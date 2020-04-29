@@ -86,7 +86,7 @@ public class AgentSimpleMovementTest {
             }
             Thread.sleep(15);
             tick++;
-            if (tick >= 30) {
+            if (tick >= 60) {
             	// takes too long, something is wrong..
             	Assertions.fail("The agents run too long...") ;
             	break ;
