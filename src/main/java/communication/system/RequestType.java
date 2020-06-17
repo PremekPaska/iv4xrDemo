@@ -18,6 +18,6 @@ public enum RequestType
     START,
     INIT,
     UPDATE_ENVIRONMENT,
-    AGENTCOMMAND
+    AGENTCOMMAND  // TODO(PP): Should probably be AGENT_COMMAND
 }
 
