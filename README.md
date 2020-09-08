@@ -1,12 +1,17 @@
-# <img src="./docs/iv4xr_logo_1200dpi.png" width="20%"> <img src="./docs/logo.png" width="8%"> iv4xr Demo
+# <img src="./docs/iv4xr_logo_1200dpi.png" width="20%"> Space Engineers Demo
 
+This is a demo for the [iv4XR testing framework](https://github.com/iv4xr-project/aplib), demonstrating that iv4XR test agents can control a game called _Space Engineers_ to perform some testing tasks. This repository is a fork of the [*Lab Recruits* demo](https://github.com/iv4xr-project/iv4xrDemo).
+
+It is not intended for general uses yet, other than as a testing project for the development of the [Space Engineers iv4XR plugin](https://github.com/iv4xr-project/iv4xr-se-plugin). For more details please refer to the plugin repository README. 
+
+<img src="./docs/SE-sotf1.png" width="100%">
+
+# Original README content below
 
 This is a demo for the [iv4xr Agent-based Testing Framework](https://github.com/iv4xr-project/aplib),
-demonstrating that iv4xr test agents can control a game called _Lab Recruits_ to perform fome testing tasks.
+demonstrating that iv4xr test agents can control a game called _Lab Recruits_ to perform some testing tasks.
 The game is included as binary; else you can build it yourself
 from its [repository](https://github.com/iv4xr-project/labrecruits).
-
-   <img src="./docs/LRSS1.png" width="70%">
 
 **Work in progress notice.** Keep in mind that the work here is still in progress. Things may look ugly while we are working on them, and things may change.
 
